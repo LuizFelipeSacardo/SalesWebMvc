@@ -1,0 +1,59 @@
+[33mcommit dd159ce2c55489edbace74e22bd3f8647e995ad7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Wed Mar 31 21:52:23 2021 -0300
+
+    Sellerservice and basic FindAll
+
+[33mcommit 24c054f016bd9bf768124d6ebb74264a150c6e68[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Wed Mar 31 21:19:37 2021 -0300
+
+    Sellers controler
+
+[33mcommit 7d0d1ed49c935487ad4f1dc8fc0547ab24ee2274[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Wed Mar 31 20:55:57 2021 -0300
+
+    Seeding service
+
+[33mcommit 2bf78d2c6e98c0314cefd52a7145eab5eb46c4b5[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Tue Mar 30 22:43:48 2021 -0300
+
+    other entities and second migration
+
+[33mcommit 5b89cd2543969de328bc1f41655b82607ca263a4[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Tue Mar 30 21:38:25 2021 -0300
+
+    Changing theme
+
+[33mcommit bc575c23f0d4fb8ad6f3172e5b06c0f7b51c4b7b[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Mon Mar 29 22:45:57 2021 -0300
+
+    MySql adaption and first migration
+
+[33mcommit 7a337fc3715fc78e1a974890eb4f8926fd9592cb[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Mon Mar 29 22:13:35 2021 -0300
+
+    CRUD Scaffolding
+
+[33mcommit 6cbd7926d9dd9c582bf3714601252420a6db0a7b[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Mon Mar 29 22:01:15 2021 -0300
+
+    Deleting departmento view and controller
+
+[33mcommit 729c0aff1062dd14a222cfdfb214beb415290d64[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Mon Mar 29 21:56:27 2021 -0300
+
+    First Commit
+
+[33mcommit a8799b786a7b26630d0c89695352c2addc2cc01e[m
+Author: Luiz Felipe Sacardo <luizfelipe_1992@hotmail.com>
+Date:   Mon Mar 29 21:52:32 2021 -0300
+
+    First commit

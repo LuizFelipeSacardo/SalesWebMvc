@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using SalesWebMvc.Models;
+using SalesWebMvc.Controllers;
+using SalesWebMvc.Data;
+using SalesWebMvc.Migrations;
+using SalesWebMvc.Services;
 
 namespace SalesWebMvc.Models
 {
